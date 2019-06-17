@@ -62,7 +62,7 @@
 export default {
   data: () => ({
     msg: 'PORTFOLIO',
-    drawer: true,
+    drawer: false,
     works: [
       {
         title: 'Todo List',
